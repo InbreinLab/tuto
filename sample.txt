@@ -1,11 +1,2 @@
 메디치교육센터
-1일차 교육 중
-git
-
-commit
-
-editor
-
-notepad
-
-aa
+302
